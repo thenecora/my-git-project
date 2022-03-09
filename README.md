@@ -8,4 +8,4 @@
 
 > New code added, again
 
-> Master again, hello
+> Changes for git pull demo
